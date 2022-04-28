@@ -5,12 +5,11 @@
     left: 0;
     right: 0;
     z-index: 1;
-    backdrop-filter: blur(2px);
     display: flex;
     align-items: center;
     justify-content: center;
     width: 100%;
-    font-family: sans-serif;
+    font-family: serif;
   }
   
 .modal_container {
